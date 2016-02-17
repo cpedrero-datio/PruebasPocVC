@@ -1,0 +1,9 @@
+org/morphiaMongo/com/conf/IPropertiesConfiguration.class
+Main.class
+org/morphiaMongo/com/conf/IPropertiesConfiguration$1.class
+org/morphiaMongo/com/conf/PropertiesConfiguration.class
+org/morphiaMongo/com/bean/FakeStudents.class
+org/morphiaMongo/com/conf/ConfigurationSpring.class
+org/morphiaMongo/com/bean/StudentsBean.class
+org/morphiaMongo/com/MorphiaSingleton.class
+org/morphiaMongo/com/conf/FactoryBeans.class
